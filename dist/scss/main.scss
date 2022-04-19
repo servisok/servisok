@@ -1,31 +1,31 @@
 @font-face {
     font-family: 'sfm';
-    src: url('/assets/fonts/SFProDisplay-Medium.woff2') format('woff2'),
-         url('/assets/fonts/SFProDisplay-Medium.woff') format('woff');
+    src: url('../fonts/SFProDisplay-Medium.woff2') format('woff2'),
+         url('../fonts/SFProDisplay-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'sfl';
-    src: url('/assets/fonts/SFProDisplay-Light.woff2') format('woff2'),
-         url('/assets/fonts/SFProDisplay-Light.woff') format('woff');
+    src: url('../fonts/SFProDisplay-Light.woff2') format('woff2'),
+         url('../fonts/SFProDisplay-Light.woff') format('woff');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'sfb';
-    src: url('/assets/fonts/SFProDisplay-Bold.woff2') format('woff2'),
-         url('/assets/fonts/SFProDisplay-Bold.woff') format('woff');
+    src: url('../fonts/SFProDisplay-Bold.woff2') format('woff2'),
+         url('../fonts/SFProDisplay-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'sfbl';
-    src: url('/assets/fonts/SFProDisplay-Black.woff2') format('woff2'),
-         url('/assets/fonts/SFProDisplay-Black.woff') format('woff');
+    src: url('../fonts/SFProDisplay-Black.woff2') format('woff2'),
+         url('../fonts/SFProDisplay-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
 }
@@ -33,8 +33,8 @@
 
 @font-face {
     font-family: 'sfr';
-    src: url('/assets/fonts/SFProDisplay-Regular.woff2') format('woff2'),
-         url('/assets/fonts/SFProDisplay-Regular.woff') format('woff');
+    src: url('../fonts/SFProDisplay-Regular.woff2') format('woff2'),
+         url('../fonts/SFProDisplay-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
